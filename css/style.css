@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400&display=swap')
+
+* {
+    font-family: 'Montserrat', sans-serif;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* Home */
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 30px 70px auto 70px;
+}
+
+.nav-brand img {
+    margin: 10px 0 0 70px;
+}
+
+nav .navbar-nav {
+    display: flex;
+    list-style-type: none;
+}
+
+.nav-item {
+    justify-content: space-between;
+    margin-left: 30px;
+    font-size: 25px;
+} 
+
+.nav-link {
+    text-decoration: none;
+}
+
+.nav-links a img {
+    margin-top: 10px;
+}
+
+h1 {
+    font-size: 65px;
+    margin: 150px 0 0 135px;
+}
+
+p {
+    font-size: 25px;
+    margin: 35px 0 0 135px;
+}
+
+img {
+    margin: 30px 0 0 135px;
+}
+ 
+.foto-bg img {
+    margin: -550px 0 0 1280px;
+}
+
+.idn-logo img{
+    margin: 50px 0 0 1300px;
+}
+
+.s-g {
+    margin: ;
+}
+
+/* About */
+
+.display-flex {
+    display: flex;
+    justify-content: space-between;
+    margin: 30px 70px auto 70px;
+}
+
+.display-flex .foto-2 img {
+    margin: 100px 0 0 150px;
+}
+
+.display-flex h1 {
+    margin: 100px 180px 0 0;
+}
+
+.display-flex P {
+    margin: 25px 180px 0 0;
+}
+
+.see-all img {
+    margin: -60px 15px 0 985px;
+}
+
+/*  Skill*/
+
+.bglayer-1 img {
+    margin: -150px 500px 0 500px;
+    position: absolute;
+    z-index: -1;
+}
+
+.p-2 img {
+    margin: 500px 200px 0 260px;
+}
+
+.bglayer-2 img {
+    margin: 90px 0 0 100px;
+    height: 570px;
+    width: 470px;
+}
+
+.content-p h1 {
+    margin: -500px 0 0 650px;
+}
+
+.content-p p {
+    margin: 25px 0 0 650px;
+}
+
+.content-p img {
+    margin: 50px 0 0 650px;
+}
+
+.bglayer-3 img {
+    margin: -500px 0 0 1290px;
+}
